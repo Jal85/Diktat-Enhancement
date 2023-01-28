@@ -18,12 +18,5 @@ Also note that DE can and often will break vanilla lore about the Sindrian Dikta
 NOTE: there is also a compressed file of all DE releases since 1.0.0 if you so wish to return to an earlier version. However, most(if not all) of these won't work on an existing save.
 
 Changelog(only for latest version):
-Version 1.2.0a
-- Removed redundant conditions from markets(Industrial/Rural/Urbanised Polity) + toned down on liberal use of Frontier/Outpost conditions
-- Added ship variants to title screen showcase and simulation screen
-- Added reduced explosion hullmod to Exult’s shield module
-- Removed refire time from Annihlator Rocket Shoal(this makes it fire rockets at a faster rate)
-- Reduced Mining Pod LG’s price to 1 credit so people can’t cheese selling it off
-- Reduced Lobster Pod’s price to 500,000 credits base(was 1,000,000 credits base)
-- Added crossmod compatibility for HMI on “Curiosity caught the pheonix”
-- Fixed Annihlator Rocket Shoal having 4 OP for whatever reason
+Version 1.2.0d
+- Finally squashed the 4OP annihilator shoal bug because apparently it wasn’t actually fixed
