@@ -16,7 +16,3 @@ Partially save compatible - Won’t crash your game if loaded in the midst of a 
 Also note that DE can and often will break vanilla lore about the Sindrian Diktat. Be warned.
 
 NOTE: there is also a compressed file of all DE releases since 1.0.0 if you so wish to return to an earlier version. However, most(if not all) of these won't work on an existing save.
-
-Changelog(only for latest version):
-Version 1.2.0d
-- Finally squashed the 4OP annihilator shoal bug because apparently it wasn’t actually fixed
