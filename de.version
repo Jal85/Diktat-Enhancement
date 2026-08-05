@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://www.dropbox.com/s/k17ujd6urzoz686/hmi.version?dl=1",
+    "masterVersionFile":"https://github.com/Jal85/diktat-enhancement/blob/main/de.version?raw=true",
     "modName":"Diktat Enhancement",
     "modThreadId":22852,
     "modVersion":
     {
         "major":1,
-        "minor":3,
-        "patch":0,
+        "minor":2.2,
+        "patch":f,
     },
 }
