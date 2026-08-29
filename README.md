@@ -1,11 +1,11 @@
 # Diktat-Enhancement
 A mod that adds a bunch of new content to the Sindrian Diktat, ranging from ships and weapons to markets and interactions.
 
-Ever felt the Sindrian Diktat was too weak as a faction? Ever wanted to see it actually do anything in Nexerelin games without flopping and dying as soon as another faction remembers it exists?
+Ever felt the Sindrian Diktat was too weak as a faction? Ever wanted to see it actually do anything in Nexerelin games without flopping and dying as soon as another faction remembers it exists? Or maybe you’re just one of the three Diktat fans around who really want to see the faction get more lore and substance to its existence?
 
-Well look no further! This mod considerably buffs up the Sindrian Diktat to somewhere between Tri-Tachyon and PL/Hegemony level of size and power, giving them a new system, new markets, lots of QOL things, secret things, fighters and lots more! Also adds some non-Diktat related content; which can be toggled in settings.json if they don't suit your tastes(only on new game gen however!).
+Well look no further! This mod considerably buffs up the Sindrian Diktat to somewhere between Tri-Tachyon and PL/Hegemony level of size and power. This mod gives them a lot of things - A new system, new markets in Askonia, a whole bunch of ships, a few fighters, a few weapons, and most of all lots and lots of juicy lore!
 
-And if you don’t want the Diktat to be overtuned or come out of their little searing hidey-hole DE now adds Lite Mode, a mode toggleable in settings.json that removes most extra-Askonia DE-added content!
+If you don’t want the Diktat to be overtuned or come out of their little searing hidey-hole DE now adds Lite Mode, a mode toggleable in settings.json that removes most extra-Askonia DE-added content!
 
 And if you want the Diktat to stay in Askonia only DE now adds Fortress Mode, a mode toggleable in settings.json that replaces much DE content(when applicable) with Askonia-based substitutes!
 
